@@ -7,7 +7,7 @@
 .caja-padre{
     display: flex;
     height: 700px;
-    background:linear-gradient(90deg,#fff,#d95d7a);
+    background:linear-gradient(90deg,#0c4d6b,#d95d7a);
     justify-content: space-around;
     align-items: center;
 }
